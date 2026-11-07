@@ -1,0 +1,12 @@
+{
+  "name": "discord-announcement-bot",
+  "version": "1.0.0",
+  "description": "Bot for server leaders to send formatted announcements via a panel",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.14.0"
+  }
+}
